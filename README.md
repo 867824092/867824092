@@ -23,3 +23,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
 ![Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat&logo=apachekafka)
 ![RabbitMq](https://img.shields.io/badge/-RabbitMq-000000?style=flat&logo=rabbitmq)
+
+## DevOps:
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=Kubernetes)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
